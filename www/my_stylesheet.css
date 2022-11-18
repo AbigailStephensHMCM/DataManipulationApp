@@ -1,0 +1,35 @@
+.tools-box {
+  
+  margin-bottom: 20px;
+  
+}
+
+.tools-box .box {
+  margin: 0;
+   border: 0;
+}
+
+.tools-box .box-header {
+  padding: 0;
+}
+
+.tools-box .box-body {
+  display: none;
+}
+
+.tools-box .box-header .btn {
+  background-color: #ffff;
+  border: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.sticky-row {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.wrapper {
+  overflow: visible;
+}
